@@ -7,6 +7,7 @@ chromadb
 faiss-cpu
 langchain_google_genai
 langchain-groq
+gunicorn==21.2.0
 langchain-openai
 tiktoken
 pypdf
